@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/scalan.iml" filepath="$PROJECT_DIR$/scalan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalan.samples.iml" filepath="$PROJECT_DIR$/scalan.samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalan.tests.iml" filepath="$PROJECT_DIR$/scalan.tests.iml" />
+    </modules>
+  </component>
+</project>
+
